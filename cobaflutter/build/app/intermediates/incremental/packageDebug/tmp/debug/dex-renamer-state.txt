@@ -1,0 +1,4 @@
+#Tue Jan 07 14:03:39 WIB 2020
+base.0=/home/najmuddin/Documents/Lessons/Projects/Dart/cobaflutter/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

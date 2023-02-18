@@ -1,0 +1,25 @@
+name: flutter_application_5_text_style
+description: A new Flutter project.
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=2.19.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  fonts:
+    - family: Overlock-Bold
+      fonts:
+        - asset: fonts/Overlock-Bold.ttf
+        - asset: fonts/Overlock-BoldItalic.ttf
+          style: italic
+  uses-material-design: true

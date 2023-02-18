@@ -1,0 +1,4 @@
+#Wed May 13 15:42:00 WIB 2020
+base.0=/home/najmuddin/Documents/Lessons/Projects/Dart/netninja/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

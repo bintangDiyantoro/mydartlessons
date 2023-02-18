@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/najmuddin/Documents/Lessons/Projects/Dart/cobaflutter/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /home/najmuddin/Documents/Lessons/Projects/Dart/cobaflutter/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /home/najmuddin/Documents/Lessons/Projects/Dart/cobaflutter/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /home/najmuddin/Documents/Lessons/Projects/Dart/cobaflutter/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from /home/najmuddin/Documents/Lessons/Projects/Dart/cobaflutter/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/e2b28ad72a2a5e89f1c8011c5410f023/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/2d5570af604f4fa07f894c952369fcbc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/09c32eb1d79b21586552653a38c8dc29/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/b4d5db8e0d0899ff9bc9e090e317c41d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/2ed795734ed744ca3cd7808c3390de3a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/3dfc67a5f8d61fd8aaca359e795a6db2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/da976e1c4e28a510028dc68f66aa1459/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/ab363828f68d496a31b254672d33498d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/244447919e3110ffd60848eb84bca30e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/82ebac895873e4ebae2071908fa9bdfa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/a949442610f1e0a3fe505612f9bd3e0d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/a6a26264c0d8ee6f52d2a776e09eb57f/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/dfb8b295a77b9d63e2a50ce372a33828/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/b8f3a7f05334ddab7c599986c1ea09a5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/a8f43218628a08fc06a3f14d8e397cea/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/41f8a6eb11e40e2c469a364cee9a63d4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/290780f491d0fa4e77fe947fbc8d7728/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/28782a72f95f78e669263cb50ba2a37b/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/cb51f7062695c9816dc1c674de032950/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/47600fd941c5cec611a40329b5d60cce/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/a3ea0188101aaf952d35e401dbf106f9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/c96507b52f2000f8f3da9865dbe7bea7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b9653747a63d00f6db46a9de9c3e680a/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/najmuddin/Documents/Lessons/Projects/Dart/cobaflutter/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /home/najmuddin/Documents/Lessons/Projects/Dart/cobaflutter/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /home/najmuddin/Documents/Lessons/Projects/Dart/cobaflutter/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /home/najmuddin/Documents/Lessons/Projects/Dart/cobaflutter/android/app/src/main/AndroidManifest.xml:2:5-38
+		INJECTED from /home/najmuddin/Documents/Lessons/Projects/Dart/cobaflutter/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/najmuddin/Documents/Lessons/Projects/Dart/cobaflutter/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/najmuddin/Documents/Lessons/Projects/Dart/cobaflutter/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/najmuddin/Documents/Lessons/Projects/Dart/cobaflutter/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /home/najmuddin/Documents/Lessons/Projects/Dart/cobaflutter/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/najmuddin/Documents/Lessons/Projects/Dart/cobaflutter/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/najmuddin/Documents/Lessons/Projects/Dart/cobaflutter/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /home/najmuddin/Documents/Lessons/Projects/Dart/cobaflutter/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/najmuddin/Documents/Lessons/Projects/Dart/cobaflutter/android/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /home/najmuddin/Documents/Lessons/Projects/Dart/cobaflutter/android/app/src/main/AndroidManifest.xml:9:5-32:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/a6a26264c0d8ee6f52d2a776e09eb57f/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/a6a26264c0d8ee6f52d2a776e09eb57f/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/28782a72f95f78e669263cb50ba2a37b/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/28782a72f95f78e669263cb50ba2a37b/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/a6a26264c0d8ee6f52d2a776e09eb57f/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /home/najmuddin/Documents/Lessons/Projects/Dart/cobaflutter/android/app/src/main/AndroidManifest.xml:11:9-36
+	android:icon
+		ADDED from /home/najmuddin/Documents/Lessons/Projects/Dart/cobaflutter/android/app/src/main/AndroidManifest.xml:12:9-43
+	android:name
+		ADDED from /home/najmuddin/Documents/Lessons/Projects/Dart/cobaflutter/android/app/src/main/AndroidManifest.xml:10:9-57
+activity#com.example.cobaflutter.MainActivity
+ADDED from /home/najmuddin/Documents/Lessons/Projects/Dart/cobaflutter/android/app/src/main/AndroidManifest.xml:13:9-31:20
+	android:launchMode
+		ADDED from /home/najmuddin/Documents/Lessons/Projects/Dart/cobaflutter/android/app/src/main/AndroidManifest.xml:15:13-43
+	android:hardwareAccelerated
+		ADDED from /home/najmuddin/Documents/Lessons/Projects/Dart/cobaflutter/android/app/src/main/AndroidManifest.xml:18:13-47
+	android:windowSoftInputMode
+		ADDED from /home/najmuddin/Documents/Lessons/Projects/Dart/cobaflutter/android/app/src/main/AndroidManifest.xml:19:13-55
+	android:configChanges
+		ADDED from /home/najmuddin/Documents/Lessons/Projects/Dart/cobaflutter/android/app/src/main/AndroidManifest.xml:17:13-144
+	android:theme
+		ADDED from /home/najmuddin/Documents/Lessons/Projects/Dart/cobaflutter/android/app/src/main/AndroidManifest.xml:16:13-47
+	android:name
+		ADDED from /home/najmuddin/Documents/Lessons/Projects/Dart/cobaflutter/android/app/src/main/AndroidManifest.xml:14:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /home/najmuddin/Documents/Lessons/Projects/Dart/cobaflutter/android/app/src/main/AndroidManifest.xml:24:13-26:40
+	android:value
+		ADDED from /home/najmuddin/Documents/Lessons/Projects/Dart/cobaflutter/android/app/src/main/AndroidManifest.xml:26:17-37
+	android:name
+		ADDED from /home/najmuddin/Documents/Lessons/Projects/Dart/cobaflutter/android/app/src/main/AndroidManifest.xml:25:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/najmuddin/Documents/Lessons/Projects/Dart/cobaflutter/android/app/src/main/AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from /home/najmuddin/Documents/Lessons/Projects/Dart/cobaflutter/android/app/src/main/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from /home/najmuddin/Documents/Lessons/Projects/Dart/cobaflutter/android/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/najmuddin/Documents/Lessons/Projects/Dart/cobaflutter/android/app/src/main/AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from /home/najmuddin/Documents/Lessons/Projects/Dart/cobaflutter/android/app/src/main/AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from /home/najmuddin/Documents/Lessons/Projects/Dart/cobaflutter/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/najmuddin/Documents/Lessons/Projects/Dart/cobaflutter/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/najmuddin/Documents/Lessons/Projects/Dart/cobaflutter/android/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-fragment:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/e2b28ad72a2a5e89f1c8011c5410f023/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/e2b28ad72a2a5e89f1c8011c5410f023/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/2d5570af604f4fa07f894c952369fcbc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/2d5570af604f4fa07f894c952369fcbc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/09c32eb1d79b21586552653a38c8dc29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/09c32eb1d79b21586552653a38c8dc29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/b4d5db8e0d0899ff9bc9e090e317c41d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/b4d5db8e0d0899ff9bc9e090e317c41d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/2ed795734ed744ca3cd7808c3390de3a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/2ed795734ed744ca3cd7808c3390de3a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/3dfc67a5f8d61fd8aaca359e795a6db2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/3dfc67a5f8d61fd8aaca359e795a6db2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/da976e1c4e28a510028dc68f66aa1459/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/da976e1c4e28a510028dc68f66aa1459/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/ab363828f68d496a31b254672d33498d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/ab363828f68d496a31b254672d33498d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/244447919e3110ffd60848eb84bca30e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/244447919e3110ffd60848eb84bca30e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/82ebac895873e4ebae2071908fa9bdfa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/82ebac895873e4ebae2071908fa9bdfa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/a949442610f1e0a3fe505612f9bd3e0d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/a949442610f1e0a3fe505612f9bd3e0d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/a6a26264c0d8ee6f52d2a776e09eb57f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/a6a26264c0d8ee6f52d2a776e09eb57f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/dfb8b295a77b9d63e2a50ce372a33828/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/dfb8b295a77b9d63e2a50ce372a33828/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/b8f3a7f05334ddab7c599986c1ea09a5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/b8f3a7f05334ddab7c599986c1ea09a5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/a8f43218628a08fc06a3f14d8e397cea/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/a8f43218628a08fc06a3f14d8e397cea/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/41f8a6eb11e40e2c469a364cee9a63d4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/41f8a6eb11e40e2c469a364cee9a63d4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/290780f491d0fa4e77fe947fbc8d7728/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/290780f491d0fa4e77fe947fbc8d7728/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/28782a72f95f78e669263cb50ba2a37b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/28782a72f95f78e669263cb50ba2a37b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/cb51f7062695c9816dc1c674de032950/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/cb51f7062695c9816dc1c674de032950/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/47600fd941c5cec611a40329b5d60cce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/47600fd941c5cec611a40329b5d60cce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/a3ea0188101aaf952d35e401dbf106f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/a3ea0188101aaf952d35e401dbf106f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/c96507b52f2000f8f3da9865dbe7bea7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/c96507b52f2000f8f3da9865dbe7bea7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b9653747a63d00f6db46a9de9c3e680a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/najmuddin/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b9653747a63d00f6db46a9de9c3e680a/AndroidManifest.xml:20:5-44
+INJECTED from /home/najmuddin/Documents/Lessons/Projects/Dart/cobaflutter/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/najmuddin/Documents/Lessons/Projects/Dart/cobaflutter/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/najmuddin/Documents/Lessons/Projects/Dart/cobaflutter/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/najmuddin/Documents/Lessons/Projects/Dart/cobaflutter/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/najmuddin/Documents/Lessons/Projects/Dart/cobaflutter/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/najmuddin/Documents/Lessons/Projects/Dart/cobaflutter/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/najmuddin/Documents/Lessons/Projects/Dart/cobaflutter/android/app/src/debug/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /home/najmuddin/Documents/Lessons/Projects/Dart/cobaflutter/android/app/src/debug/AndroidManifest.xml:6:22-64
