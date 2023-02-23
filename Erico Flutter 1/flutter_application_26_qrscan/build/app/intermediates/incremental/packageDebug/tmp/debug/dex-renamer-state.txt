@@ -1,0 +1,4 @@
+#Thu Feb 23 22:30:25 WIB 2023
+base.0=/home/bean/Documents/Lessons/Programs/Dart/Erico Flutter 1/flutter_application_26_qrscan/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
